@@ -1,7 +1,6 @@
 # ionic-angular
 Ionic demo with simple booking app
 
-# Setup
 
 ### 1. Install:
 
